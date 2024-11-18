@@ -5,9 +5,10 @@
       <div class="three columns">
       </div>
       <div class="six columns">
+        <h1>Detalles de la casa</h1>
         <!-- Información principal del casa -->
-        <h4>{{ casa.House_name }}</h4>
-        <h4>{{ casa.Region }}</h4>  </div>
+        <h4>Nombre: {{ casa.House_name }}</h4>
+        <h4>Region: {{ casa.Region }}</h4>  </div>
       <div class="two columns"></div>
     </div>
     <FooterView />

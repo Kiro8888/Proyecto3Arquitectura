@@ -5,8 +5,7 @@
     
     <div class="intro">
       <p>
-        En esta página descubrirás información detallada sobre los museos más importantes del mundo, las obras de arte más icónicas y los artistas que han dejado una huella imborrable en la historia. Sumérgete en el fascinante mundo del arte y conoce las piezas que han inspirado a generaciones.
-      </p>
+        En esta página descubrirás información detallada sobre los personajes más importantes de este universo ficticio, las casas más influyentes, las batallas más épicas y las regiones que han marcado la historia. Sumérgete en este fascinante mundo y conoce los eventos y figuras que han dejado una huella imborrable en su legado.  </p>
     </div>
 
     <ul class="links-list">

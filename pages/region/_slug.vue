@@ -4,8 +4,9 @@
     <div class="row">
       <div class="three columns"></div>
       <div class="six columns region-info">
+        <h1>Detalles de las regiones</h1>
         <!-- Títulos de la región -->
-        <h2 class="region-title">{{ region.location }}</h2>
+        <h2 class="region-title">Ubicacion: {{ region.location }}</h2>
         <h4 class="region-sub-location">Sub ubicaciones: {{ region.subLocation }}</h4>
       </div>
       <div class="two columns"></div>
