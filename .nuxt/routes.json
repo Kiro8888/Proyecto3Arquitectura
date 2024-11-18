@@ -1,0 +1,79 @@
+[
+  {
+    "name": "batallas",
+    "path": "/batallas",
+    "component": "C:\\\\Users\\\\aaron\\\\OneDrive\\\\Documentos\\\\Lic\\\\Segundo semestre\\\\Arquitectura\\\\proyecto3\\\\Proyecto3\\\\pages\\\\batallas.vue",
+    "chunkName": "pages/batallas",
+    "_name": "_9c5885cc"
+  },
+  {
+    "name": "casas",
+    "path": "/casas",
+    "component": "C:\\\\Users\\\\aaron\\\\OneDrive\\\\Documentos\\\\Lic\\\\Segundo semestre\\\\Arquitectura\\\\proyecto3\\\\Proyecto3\\\\pages\\\\casas.vue",
+    "chunkName": "pages/casas",
+    "_name": "_28c4650a"
+  },
+  {
+    "name": "muertes",
+    "path": "/muertes",
+    "component": "C:\\\\Users\\\\aaron\\\\OneDrive\\\\Documentos\\\\Lic\\\\Segundo semestre\\\\Arquitectura\\\\proyecto3\\\\Proyecto3\\\\pages\\\\muertes.vue",
+    "chunkName": "pages/muertes",
+    "_name": "_828ec73e"
+  },
+  {
+    "name": "personajes",
+    "path": "/personajes",
+    "component": "C:\\\\Users\\\\aaron\\\\OneDrive\\\\Documentos\\\\Lic\\\\Segundo semestre\\\\Arquitectura\\\\proyecto3\\\\Proyecto3\\\\pages\\\\personajes.vue",
+    "chunkName": "pages/personajes",
+    "_name": "_e0d6a430"
+  },
+  {
+    "name": "regiones",
+    "path": "/regiones",
+    "component": "C:\\\\Users\\\\aaron\\\\OneDrive\\\\Documentos\\\\Lic\\\\Segundo semestre\\\\Arquitectura\\\\proyecto3\\\\Proyecto3\\\\pages\\\\regiones.vue",
+    "chunkName": "pages/regiones",
+    "_name": "_632cf71e"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\aaron\\\\OneDrive\\\\Documentos\\\\Lic\\\\Segundo semestre\\\\Arquitectura\\\\proyecto3\\\\Proyecto3\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_cd77e3f4"
+  },
+  {
+    "name": "battle-slug",
+    "path": "/battle/:slug?",
+    "component": "C:\\\\Users\\\\aaron\\\\OneDrive\\\\Documentos\\\\Lic\\\\Segundo semestre\\\\Arquitectura\\\\proyecto3\\\\Proyecto3\\\\pages\\\\battle\\\\_slug.vue",
+    "chunkName": "pages/battle/_slug",
+    "_name": "_4b4f8186"
+  },
+  {
+    "name": "character-slug",
+    "path": "/character/:slug?",
+    "component": "C:\\\\Users\\\\aaron\\\\OneDrive\\\\Documentos\\\\Lic\\\\Segundo semestre\\\\Arquitectura\\\\proyecto3\\\\Proyecto3\\\\pages\\\\character\\\\_slug.vue",
+    "chunkName": "pages/character/_slug",
+    "_name": "_4da941bd"
+  },
+  {
+    "name": "death-slug",
+    "path": "/death/:slug?",
+    "component": "C:\\\\Users\\\\aaron\\\\OneDrive\\\\Documentos\\\\Lic\\\\Segundo semestre\\\\Arquitectura\\\\proyecto3\\\\Proyecto3\\\\pages\\\\death\\\\_slug.vue",
+    "chunkName": "pages/death/_slug",
+    "_name": "_3afc8f92"
+  },
+  {
+    "name": "houses-slug",
+    "path": "/houses/:slug?",
+    "component": "C:\\\\Users\\\\aaron\\\\OneDrive\\\\Documentos\\\\Lic\\\\Segundo semestre\\\\Arquitectura\\\\proyecto3\\\\Proyecto3\\\\pages\\\\houses\\\\_slug.vue",
+    "chunkName": "pages/houses/_slug",
+    "_name": "_393753ea"
+  },
+  {
+    "name": "region-slug",
+    "path": "/region/:slug?",
+    "component": "C:\\\\Users\\\\aaron\\\\OneDrive\\\\Documentos\\\\Lic\\\\Segundo semestre\\\\Arquitectura\\\\proyecto3\\\\Proyecto3\\\\pages\\\\region\\\\_slug.vue",
+    "chunkName": "pages/region/_slug",
+    "_name": "_af5ea46c"
+  }
+]

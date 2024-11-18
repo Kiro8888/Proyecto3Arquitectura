@@ -1,0 +1,1888 @@
+{
+  "houses":[
+    {
+      "House_name": "Algood",
+      "Region": "Westerlands"
+    },
+    {
+      "House_name": "Allyrion of Godsgrace",
+      "Region": "Dorne"
+    },
+    {
+      "House_name": "Amber",
+      "Region": "North"
+    },
+    {
+      "House_name": "Ambrose",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Andrik of Southshield",
+      "Region": "Iron Islands (Shield Islands)"
+    },
+    {
+      "House_name": "Appleton of Appleton",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Arryn of Gulltown",
+      "Region": "Vale of Arryn"
+    },
+    {
+      "House_name": "Arryn of the Eyrie",
+      "Region": "Vale of Arryn"
+    },
+    {
+      "House_name": "Ashford of Ashford",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Ashwood",
+      "Region": "North"
+    },
+    {
+      "House_name": "Baelish of Harrenhal",
+      "Region": "Riverlands"
+    },
+    {
+      "House_name": "Baelish of the Fingers",
+      "Region": "Vale of Arryn"
+    },
+    {
+      "House_name": "Ball",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Banefort of Banefort",
+      "Region": "Westerlands"
+    },
+    {
+      "House_name": "Bar Emmon of Sharp Point",
+      "Region": "Crownlands (Dragonstone)"
+    },
+    {
+      "House_name": "Baratheon of Dragonstone",
+      "Region": "Crownlands (Dragonstone)"
+    },
+    {
+      "House_name": "Baratheon of King's Landing",
+      "Region": "Crownlands"
+    },
+    {
+      "House_name": "Baratheon of Storm's End",
+      "Region": "Stormlands"
+    },
+    {
+      "House_name": "Beesbury of Honeyholt",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Belgrave",
+      "Region": "Unknown"
+    },
+    {
+      "House_name": "Belmore of Strongsong",
+      "Region": "Vale of Arryn"
+    },
+    {
+      "House_name": "Bettley",
+      "Region": "Westerlands"
+    },
+    {
+      "House_name": "Bigglestone",
+      "Region": "Riverlands"
+    },
+    {
+      "House_name": "Blackbar of Bandallon",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Blackberry",
+      "Region": "Unknown"
+    },
+    {
+      "House_name": "Blackfyre",
+      "Region": "Crownlands"
+    },
+    {
+      "House_name": "Blackmont of Blackmont",
+      "Region": "Dorne"
+    },
+    {
+      "House_name": "Blackmyre",
+      "Region": "North (Crannogmen)"
+    },
+    {
+      "House_name": "Blacktyde of Blacktyde",
+      "Region": "Iron Islands"
+    },
+    {
+      "House_name": "Blackwood of Raventree Hall",
+      "Region": "Riverlands; North (formerly)"
+    },
+    {
+      "House_name": "Blanetree",
+      "Region": "Riverlands"
+    },
+    {
+      "House_name": "Blount",
+      "Region": "Crownlands"
+    },
+    {
+      "House_name": "Boggs",
+      "Region": "Crownlands (Crackclaw Point)"
+    },
+    {
+      "House_name": "Boggs",
+      "Region": "North (Crannogmen)"
+    },
+    {
+      "House_name": "Bole",
+      "Region": "North (Wolfswood Clans)"
+    },
+    {
+      "House_name": "Bolling",
+      "Region": "Stormlands"
+    },
+    {
+      "House_name": "Bolton of the Dreadfort",
+      "Region": "North"
+    },
+    {
+      "House_name": "Bolton of Winterfell",
+      "Region": "North"
+    },
+    {
+      "House_name": "Borrell of Sweetsister",
+      "Region": "Vale of Arryn (Sistermen)"
+    },
+    {
+      "House_name": "Botley of Lordsport",
+      "Region": "Iron Islands"
+    },
+    {
+      "House_name": "Bracken of Stone Hedge",
+      "Region": "Riverlands"
+    },
+    {
+      "House_name": "Branch",
+      "Region": "North (Wolfswood Clans)"
+    },
+    {
+      "House_name": "Brax of Hornvale",
+      "Region": "Westerlands"
+    },
+    {
+      "House_name": "Breakstone",
+      "Region": "Vale of Arryn"
+    },
+    {
+      "House_name": "Briar",
+      "Region": "Dorne"
+    },
+    {
+      "House_name": "Bridges",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Brightstone",
+      "Region": "Vale of Arryn"
+    },
+    {
+      "House_name": "Brook",
+      "Region": "Dorne"
+    },
+    {
+      "House_name": "Broom",
+      "Region": "Westerlands"
+    },
+    {
+      "House_name": "Brownhill",
+      "Region": "Dorne"
+    },
+    {
+      "House_name": "Brune of Brownhollow",
+      "Region": "Crownlands (Crackclaw Point)"
+    },
+    {
+      "House_name": "Brune of the Dyre Den",
+      "Region": "Crownlands (Crackclaw Point)"
+    },
+    {
+      "House_name": "Buckler of Bronzegate",
+      "Region": "Stormlands"
+    },
+    {
+      "House_name": "Buckwell of the Antlers",
+      "Region": "Crownlands"
+    },
+    {
+      "House_name": "Bulwer of Blackcrown",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Burley",
+      "Region": "North (Mountain Clans)"
+    },
+    {
+      "House_name": "Bushy",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Butterwell of Whitewalls",
+      "Region": "Riverlands"
+    },
+    {
+      "House_name": "Byrch",
+      "Region": "Crownlands"
+    },
+    {
+      "House_name": "Bywater",
+      "Region": "Crownlands"
+    },
+    {
+      "House_name": "Cafferen of Fawnton",
+      "Region": "Stormlands"
+    },
+    {
+      "House_name": "Cargyll",
+      "Region": "Crownlands"
+    },
+    {
+      "House_name": "Caron of Nightsong",
+      "Region": "Stormlands (Marcher Lords)"
+    },
+    {
+      "House_name": "Cassel",
+      "Region": "North"
+    },
+    {
+      "House_name": "Casterly of Casterly Rock",
+      "Region": "Westerlands"
+    },
+    {
+      "House_name": "Caswell of Bitterbridge",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Cave",
+      "Region": "Crownlands (Crackclaw Point)"
+    },
+    {
+      "House_name": "Celtigar of Claw Isle",
+      "Region": "Crownlands (Dragonstone)"
+    },
+    {
+      "House_name": "Cerwyn of Castle Cerwyn",
+      "Region": "North"
+    },
+    {
+      "House_name": "Chambers",
+      "Region": "Riverlands"
+    },
+    {
+      "House_name": "Charlton",
+      "Region": "Riverlands"
+    },
+    {
+      "House_name": "Chelsted",
+      "Region": "Crownlands"
+    },
+    {
+      "House_name": "Chester of Greenshield",
+      "Region": "Reach (Shield Islands)"
+    },
+    {
+      "House_name": "Chyttering",
+      "Region": "Crownlands"
+    },
+    {
+      "House_name": "Clegane of Clegane's Keep",
+      "Region": "Westerlands"
+    },
+    {
+      "House_name": "Clifton",
+      "Region": "Westerlands"
+    },
+    {
+      "House_name": "Cobb",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Cockshaw",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Codd",
+      "Region": "Iron Islands"
+    },
+    {
+      "House_name": "Coldwater of Coldwater Burn",
+      "Region": "Vale of Arryn"
+    },
+    {
+      "House_name": "Cole",
+      "Region": "Stormlands"
+    },
+    {
+      "House_name": "Condon",
+      "Region": "North"
+    },
+    {
+      "House_name": "Conklyn",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Connington of Griffin's Roost",
+      "Region": "Stormlands"
+    },
+    {
+      "House_name": "Corbray of Heart's Home",
+      "Region": "Vale of Arryn"
+    },
+    {
+      "House_name": "Cordwayner of Hammerhal",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Costayne of the Three Towers",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Cox of Saltpans",
+      "Region": "Riverlands"
+    },
+    {
+      "House_name": "Crabb of the Whispers",
+      "Region": "Crownlands (Crackclaw Point)"
+    },
+    {
+      "House_name": "Crakehall of Crakehall",
+      "Region": "Westerlands"
+    },
+    {
+      "House_name": "Crane of Red Lake",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Cray",
+      "Region": "North (Crannogmen)"
+    },
+    {
+      "House_name": "Cressey",
+      "Region": "Crownlands"
+    },
+    {
+      "House_name": "Crowl of Deepdown",
+      "Region": "North (Skagosi Clans)"
+    },
+    {
+      "House_name": "Cupps",
+      "Region": "Unknown"
+    },
+    {
+      "House_name": "Cuy of Sunhouse",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Dalt of Lemonwood",
+      "Region": "Dorne"
+    },
+    {
+      "House_name": "Dargood",
+      "Region": "Crownlands"
+    },
+    {
+      "House_name": "Darke",
+      "Region": "Crownlands"
+    },
+    {
+      "House_name": "Darklyn of Duskendale",
+      "Region": "Crownlands"
+    },
+    {
+      "House_name": "Darkwood",
+      "Region": "Crownlands"
+    },
+    {
+      "House_name": "Darry of Darry",
+      "Region": "Riverlands"
+    },
+    {
+      "House_name": "Dayne of High Hermitage",
+      "Region": "Dorne"
+    },
+    {
+      "House_name": "Dayne of Starfall",
+      "Region": "Dorne"
+    },
+    {
+      "House_name": "Deddings",
+      "Region": "Riverlands"
+    },
+    {
+      "House_name": "Doggett",
+      "Region": "Westerlands"
+    },
+    {
+      "House_name": "Dondarrion of Blackhaven",
+      "Region": "Stormlands (Marcher Lords)"
+    },
+    {
+      "House_name": "Donniger",
+      "Region": "Vale of Arryn"
+    },
+    {
+      "House_name": "Drinkwater",
+      "Region": "Dorne"
+    },
+    {
+      "House_name": "Drox",
+      "Region": "Westerlands"
+    },
+    {
+      "House_name": "Drumm of Old Wyk",
+      "Region": "Iron Islands"
+    },
+    {
+      "House_name": "Dryland of Hellgate Hall",
+      "Region": "Dorne"
+    },
+    {
+      "House_name": "Dunn",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Durrandon",
+      "Region": "Stormlands"
+    },
+    {
+      "House_name": "Durwell",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Dustin of Barrowton",
+      "Region": "North"
+    },
+    {
+      "House_name": "Edgerton",
+      "Region": "Crownlands"
+    },
+    {
+      "House_name": "Egen",
+      "Region": "Vale of Arryn"
+    },
+    {
+      "House_name": "Elesham of the Paps",
+      "Region": "Vale of Arryn"
+    },
+    {
+      "House_name": "Erenford",
+      "Region": "Riverlands"
+    },
+    {
+      "House_name": "Errol of Haystack Hall",
+      "Region": "Stormlands"
+    },
+    {
+      "House_name": "Estermont of Greenstone",
+      "Region": "Stormlands"
+    },
+    {
+      "House_name": "Estren of Wyndhall",
+      "Region": "Westerlands"
+    },
+    {
+      "House_name": "Falwell",
+      "Region": "Westerlands"
+    },
+    {
+      "House_name": "Farman of Faircastle",
+      "Region": "Westerlands"
+    },
+    {
+      "House_name": "Farring",
+      "Region": "Crownlands"
+    },
+    {
+      "House_name": "Farrow",
+      "Region": "Unknown"
+    },
+    {
+      "House_name": "Farwynd of Sealskin Point",
+      "Region": "Iron Islands"
+    },
+    {
+      "House_name": "Farwynd of the Lonely Light",
+      "Region": "Iron Islands"
+    },
+    {
+      "House_name": "Fell of Felwood",
+      "Region": "Stormlands"
+    },
+    {
+      "House_name": "Fenn",
+      "Region": "North (Crannogmen)"
+    },
+    {
+      "House_name": "Ferren",
+      "Region": "Westerlands"
+    },
+    {
+      "House_name": "Fisher of the Misty Isle",
+      "Region": "Riverlands"
+    },
+    {
+      "House_name": "Fisher of the Stony Shore",
+      "Region": "North"
+    },
+    {
+      "House_name": "Flint of Breakstone Hill",
+      "Region": "North"
+    },
+    {
+      "House_name": "Flint of Flint's Finger",
+      "Region": "North"
+    },
+    {
+      "House_name": "Flint of the mountains",
+      "Region": "North (Mountain Clans)"
+    },
+    {
+      "House_name": "Flint of Widow's Watch",
+      "Region": "North"
+    },
+    {
+      "House_name": "Florent of Brightwater Keep",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Follard",
+      "Region": "Crownlands"
+    },
+    {
+      "House_name": "Foote",
+      "Region": "Westerlands"
+    },
+    {
+      "House_name": "Foote of Nightsong",
+      "Region": "Stormlands (Marcher Lords)"
+    },
+    {
+      "House_name": "Footly of Tumbleton",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Forrester",
+      "Region": "North (Wolfswood Clans)"
+    },
+    {
+      "House_name": "Fossoway of Cider Hall",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Fossoway of New Barrel",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Fowler of Skyreach",
+      "Region": "Dorne"
+    },
+    {
+      "House_name": "Frey of Riverrun",
+      "Region": "Riverlands"
+    },
+    {
+      "House_name": "Frey of the Crossing",
+      "Region": "Riverlands"
+    },
+    {
+      "House_name": "Frost",
+      "Region": "North"
+    },
+    {
+      "House_name": "Gardener of Highgarden",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Gargalen of Salt Shore",
+      "Region": "Dorne"
+    },
+    {
+      "House_name": "Garner",
+      "Region": "Westerlands"
+    },
+    {
+      "House_name": "Gaunt",
+      "Region": "Crownlands"
+    },
+    {
+      "House_name": "Glover of Deepwood Motte",
+      "Region": "North"
+    },
+    {
+      "House_name": "Goodbrook",
+      "Region": "Riverlands"
+    },
+    {
+      "House_name": "Goodbrother of Corpse Lake",
+      "Region": "Iron Islands"
+    },
+    {
+      "House_name": "Goodbrother of Crow Spike Keep",
+      "Region": "Iron Islands"
+    },
+    {
+      "House_name": "Goodbrother of Downdelving",
+      "Region": "Iron Islands"
+    },
+    {
+      "House_name": "Goodbrother of Orkmont",
+      "Region": "Iron Islands"
+    },
+    {
+      "House_name": "Goodbrother of Shatterstone",
+      "Region": "Iron Islands"
+    },
+    {
+      "House_name": "Goodbrother of Hammerhorn",
+      "Region": "Iron Islands"
+    },
+    {
+      "House_name": "Goode",
+      "Region": "Unknown"
+    },
+    {
+      "House_name": "Gower",
+      "Region": "Stormlands"
+    },
+    {
+      "House_name": "Graceford of Holyhall",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Grafton of Gulltown",
+      "Region": "Vale of Arryn"
+    },
+    {
+      "House_name": "Grandison of Grandview",
+      "Region": "Stormlands"
+    },
+    {
+      "House_name": "Graves",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Greenfield of Greenfield",
+      "Region": "Westerlands"
+    },
+    {
+      "House_name": "Greengood",
+      "Region": "North (Crannogmen)"
+    },
+    {
+      "House_name": "Greenhill",
+      "Region": "Unknown"
+    },
+    {
+      "House_name": "Greenwood",
+      "Region": "North"
+    },
+    {
+      "House_name": "Grell",
+      "Region": "Riverlands"
+    },
+    {
+      "House_name": "Grey",
+      "Region": "Riverlands"
+    },
+    {
+      "House_name": "Greyiron of Orkmont",
+      "Region": "Iron Islands"
+    },
+    {
+      "House_name": "Greyjoy of Pyke",
+      "Region": "Iron Islands"
+    },
+    {
+      "House_name": "Greystark of the Wolf's Den",
+      "Region": "North"
+    },
+    {
+      "House_name": "Grimm of Greyshield",
+      "Region": "Reach (Shield Islands)"
+    },
+    {
+      "House_name": "Groves",
+      "Region": "Unknown"
+    },
+    {
+      "House_name": "Haigh",
+      "Region": "Riverlands"
+    },
+    {
+      "House_name": "Hamell",
+      "Region": "Westerlands"
+    },
+    {
+      "House_name": "Harclay",
+      "Region": "North (Mountain Clans)"
+    },
+    {
+      "House_name": "Hardy",
+      "Region": "Crownlands (Crackclaw Point)"
+    },
+    {
+      "House_name": "Hardyng",
+      "Region": "Vale of Arryn"
+    },
+    {
+      "House_name": "Harlaw of Grey Garden",
+      "Region": "Iron Islands (Shield Islands)"
+    },
+    {
+      "House_name": "Harlaw of Harlaw Hall",
+      "Region": "Iron Islands"
+    },
+    {
+      "House_name": "Harlaw of Harridan Hill",
+      "Region": "Iron Islands"
+    },
+    {
+      "House_name": "Harlaw of Harlaw",
+      "Region": "Iron Islands"
+    },
+    {
+      "House_name": "Harlaw of the Tower of Glimmering",
+      "Region": "Iron Islands"
+    },
+    {
+      "House_name": "Harroway of Harrenhal",
+      "Region": "Riverlands"
+    },
+    {
+      "House_name": "Harte",
+      "Region": "Crownlands"
+    },
+    {
+      "House_name": "Hastwyck",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Hasty",
+      "Region": "Stormlands"
+    },
+    {
+      "House_name": "Hawick of Saltpans",
+      "Region": "Riverlands"
+    },
+    {
+      "House_name": "Hawthorne",
+      "Region": "Westerlands"
+    },
+    {
+      "House_name": "Hayford of Hayford",
+      "Region": "Crownlands"
+    },
+    {
+      "House_name": "Heddle",
+      "Region": "Riverlands"
+    },
+    {
+      "House_name": "Herston",
+      "Region": "Stormlands"
+    },
+    {
+      "House_name": "Hersy of Newkeep",
+      "Region": "Vale of Arryn"
+    },
+    {
+      "House_name": "Hetherspoon",
+      "Region": "Westerlands"
+    },
+    {
+      "House_name": "Hewett of Oakenshield",
+      "Region": "Reach (Shield Islands)"
+    },
+    {
+      "House_name": "Hightower of the Hightower",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Hoare of Orkmont",
+      "Region": "Iron Islands (origin); Riverlands"
+    },
+    {
+      "House_name": "Hogg of Sow's Horn",
+      "Region": "Crownlands"
+    },
+    {
+      "House_name": "Hollard",
+      "Region": "Crownlands"
+    },
+    {
+      "House_name": "Holt",
+      "Region": "North"
+    },
+    {
+      "House_name": "Holt",
+      "Region": "Dorne"
+    },
+    {
+      "House_name": "Hook",
+      "Region": "Riverlands"
+    },
+    {
+      "House_name": "Hornwood of Hornwood",
+      "Region": "North"
+    },
+    {
+      "House_name": "Horpe",
+      "Region": "Stormlands"
+    },
+    {
+      "House_name": "Hull",
+      "Region": "Dorne"
+    },
+    {
+      "House_name": "Humble",
+      "Region": "Iron Islands"
+    },
+    {
+      "House_name": "Hunt",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Hunter of Longbow Hall",
+      "Region": "Vale of Arryn"
+    },
+    {
+      "House_name": "Hutcheson",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Inchfield",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Ironmaker",
+      "Region": "Iron Islands"
+    },
+    {
+      "House_name": "Ironsmith",
+      "Region": "North"
+    },
+    {
+      "House_name": "Jast",
+      "Region": "Westerlands"
+    },
+    {
+      "House_name": "Jordayne of the Tor",
+      "Region": "Dorne"
+    },
+    {
+      "House_name": "Justman",
+      "Region": "Riverlands"
+    },
+    {
+      "House_name": "Karstark of Karhold",
+      "Region": "North"
+    },
+    {
+      "House_name": "Keath",
+      "Region": "Riverlands"
+    },
+    {
+      "House_name": "Kellington",
+      "Region": "Stormlands"
+    },
+    {
+      "House_name": "Kenning of Harlaw",
+      "Region": "Iron Islands"
+    },
+    {
+      "House_name": "Kenning of Kayce",
+      "Region": "Westerlands"
+    },
+    {
+      "House_name": "Kettleblack",
+      "Region": "Crownlands"
+    },
+    {
+      "House_name": "Kidwell of Ivy Hall",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Knott",
+      "Region": "North (Mountain Clans)"
+    },
+    {
+      "House_name": "Kyndall",
+      "Region": "Westerlands"
+    },
+    {
+      "House_name": "Ladybright",
+      "Region": "Dorne"
+    },
+    {
+      "House_name": "Lake",
+      "Region": "Dorne"
+    },
+    {
+      "House_name": "Lake",
+      "Region": "North"
+    },
+    {
+      "House_name": "Langward",
+      "Region": "Crownlands"
+    },
+    {
+      "House_name": "Lannett",
+      "Region": "Westerlands"
+    },
+    {
+      "House_name": "Lannister of Casterly Rock",
+      "Region": "Westerlands"
+    },
+    {
+      "House_name": "Lannister of Darry",
+      "Region": "Riverlands"
+    },
+    {
+      "House_name": "Lannister of Lannisport",
+      "Region": "Westerlands"
+    },
+    {
+      "House_name": "Lanny",
+      "Region": "Westerlands"
+    },
+    {
+      "House_name": "Lantell",
+      "Region": "Westerlands"
+    },
+    {
+      "House_name": "Leek",
+      "Region": "Unknown"
+    },
+    {
+      "House_name": "Lefford of the Golden Tooth",
+      "Region": "Westerlands"
+    },
+    {
+      "House_name": "Leygood",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Liddle",
+      "Region": "North (Mountain Clans)"
+    },
+    {
+      "House_name": "Lightfoot",
+      "Region": "North"
+    },
+    {
+      "House_name": "Lipps",
+      "Region": "Vale of Arryn"
+    },
+    {
+      "House_name": "Locke of Oldcastle",
+      "Region": "North"
+    },
+    {
+      "House_name": "Lolliston",
+      "Region": "Riverlands"
+    },
+    {
+      "House_name": "Long",
+      "Region": "North"
+    },
+    {
+      "House_name": "Longthorpe of Longsister",
+      "Region": "Vale of Arryn (Sistermen)"
+    },
+    {
+      "House_name": "Longwaters",
+      "Region": "Crownlands"
+    },
+    {
+      "House_name": "Lonmouth",
+      "Region": "Stormlands"
+    },
+    {
+      "House_name": "Lorch",
+      "Region": "Westerlands"
+    },
+    {
+      "House_name": "Lothston of Harrenhal",
+      "Region": "Riverlands"
+    },
+    {
+      "House_name": "Lowther",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Lyberr",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Lychester",
+      "Region": "Riverlands"
+    },
+    {
+      "House_name": "Lydden of Deep Den",
+      "Region": "Westerlands"
+    },
+    {
+      "House_name": "Lynderly of Snakewood",
+      "Region": "Vale of Arryn"
+    },
+    {
+      "House_name": "Magnar of Kingshouse",
+      "Region": "North (Skagosi Clans)"
+    },
+    {
+      "House_name": "Mallery",
+      "Region": "Crownlands"
+    },
+    {
+      "House_name": "Mallister of Seagard",
+      "Region": "Riverlands"
+    },
+    {
+      "House_name": "Manderly of White Harbor",
+      "Region": "North; Reach (formerly)"
+    },
+    {
+      "House_name": "Mandrake",
+      "Region": "Unknown"
+    },
+    {
+      "House_name": "Manning",
+      "Region": "Crownlands"
+    },
+    {
+      "House_name": "Manwoody of Kingsgrave",
+      "Region": "Dorne"
+    },
+    {
+      "House_name": "Marbrand of Ashemark",
+      "Region": "Westerlands"
+    },
+    {
+      "House_name": "Marsh",
+      "Region": "North"
+    },
+    {
+      "House_name": "Martell of Sunspear",
+      "Region": "Dorne"
+    },
+    {
+      "House_name": "Massey of Stonedance",
+      "Region": "Crownlands"
+    },
+    {
+      "House_name": "Meadows of Grassy Vale",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Melcolm of Old Anchor",
+      "Region": "Vale of Arryn"
+    },
+    {
+      "House_name": "Merlyn of Pebbleton",
+      "Region": "Iron Islands"
+    },
+    {
+      "House_name": "Merryweather of Longtable",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Mertyns of Mistwood",
+      "Region": "Stormlands"
+    },
+    {
+      "House_name": "Middlebury",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Mollen",
+      "Region": "North"
+    },
+    {
+      "House_name": "Moore",
+      "Region": "Vale of Arryn"
+    },
+    {
+      "House_name": "Mooton of Maidenpool",
+      "Region": "Riverlands"
+    },
+    {
+      "House_name": "Moreland",
+      "Region": "Westerlands"
+    },
+    {
+      "House_name": "Mormont of Bear Island",
+      "Region": "North"
+    },
+    {
+      "House_name": "Morrigen of Crow's Nest",
+      "Region": "Stormlands"
+    },
+    {
+      "House_name": "Moss",
+      "Region": "North"
+    },
+    {
+      "House_name": "Mudd of Oldstones",
+      "Region": "Riverlands"
+    },
+    {
+      "House_name": "Mullendore of Uplands",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Musgood",
+      "Region": "Stormlands"
+    },
+    {
+      "House_name": "Myatt",
+      "Region": "Westerlands"
+    },
+    {
+      "House_name": "Myre of Harlaw",
+      "Region": "Iron Islands"
+    },
+    {
+      "House_name": "Nayland of Hag's Mire",
+      "Region": "Riverlands"
+    },
+    {
+      "House_name": "Netley",
+      "Region": "Iron Islands"
+    },
+    {
+      "House_name": "Norcross",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Norrey",
+      "Region": "North (Mountain Clans)"
+    },
+    {
+      "House_name": "Norridge",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Nute of Oakenshield",
+      "Region": "Iron Islands (Shield Islands)"
+    },
+    {
+      "House_name": "Nutt",
+      "Region": "Riverlands"
+    },
+    {
+      "House_name": "Oakheart of Old Oak",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Oldflowers",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Orkwood of Orkmont",
+      "Region": "Iron Islands"
+    },
+    {
+      "House_name": "Orme",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Osgrey of Leafy Lake",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Osgrey of Standfast",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Overton",
+      "Region": "North"
+    },
+    {
+      "House_name": "Paege",
+      "Region": "Riverlands"
+    },
+    {
+      "House_name": "Parren",
+      "Region": "Westerlands"
+    },
+    {
+      "House_name": "Payne",
+      "Region": "Westerlands"
+    },
+    {
+      "House_name": "Peake of Starpike",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Peasebury of Poddingfield",
+      "Region": "Stormlands"
+    },
+    {
+      "House_name": "Peat",
+      "Region": "North (Crannogmen)"
+    },
+    {
+      "House_name": "Peckledon",
+      "Region": "Westerlands"
+    },
+    {
+      "House_name": "Pemford",
+      "Region": "Riverlands"
+    },
+    {
+      "House_name": "Penny",
+      "Region": "Unknown"
+    },
+    {
+      "House_name": "Penrose of Parchments",
+      "Region": "Stormlands"
+    },
+    {
+      "House_name": "Perryn",
+      "Region": "Riverlands"
+    },
+    {
+      "House_name": "Piper of Pinkmaiden",
+      "Region": "Riverlands"
+    },
+    {
+      "House_name": "Plumm",
+      "Region": "Westerlands"
+    },
+    {
+      "House_name": "Pommingham",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Poole",
+      "Region": "North"
+    },
+    {
+      "House_name": "Potter",
+      "Region": "Unknown"
+    },
+    {
+      "House_name": "Prester of Feastfires",
+      "Region": "Westerlands"
+    },
+    {
+      "House_name": "Pryor of Pebble",
+      "Region": "Vale of Arryn"
+    },
+    {
+      "House_name": "Pyle",
+      "Region": "Crownlands"
+    },
+    {
+      "House_name": "Pyne",
+      "Region": "Crownlands (Crackclaw Point)"
+    },
+    {
+      "House_name": "Qoherys of Harrenhal",
+      "Region": "Riverlands"
+    },
+    {
+      "House_name": "Qorgyle of Sandstone",
+      "Region": "Dorne"
+    },
+    {
+      "House_name": "Quagg",
+      "Region": "North (Crannogmen)"
+    },
+    {
+      "House_name": "Rambton",
+      "Region": "Crownlands"
+    },
+    {
+      "House_name": "Redbeard",
+      "Region": "North"
+    },
+    {
+      "House_name": "Redding",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Redfort of Redfort",
+      "Region": "Vale of Arryn"
+    },
+    {
+      "House_name": "Redwyne of the Arbor",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Reed of Greywater Watch",
+      "Region": "North (Crannogmen)"
+    },
+    {
+      "House_name": "Reyne of Castamere",
+      "Region": "Westerlands"
+    },
+    {
+      "House_name": "Rhysling",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Risley of Risley Glade",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Rogers of Amberly",
+      "Region": "Stormlands"
+    },
+    {
+      "House_name": "Rollingford",
+      "Region": "Crownlands"
+    },
+    {
+      "House_name": "Roote of Lord Harroway's Town",
+      "Region": "Riverlands"
+    },
+    {
+      "House_name": "Rosby of Rosby",
+      "Region": "Crownlands"
+    },
+    {
+      "House_name": "Rowan of Goldengrove",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Roxton of the Ring",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Royce of Runestone",
+      "Region": "Vale of Arryn"
+    },
+    {
+      "House_name": "Royce of the Gates of the Moon",
+      "Region": "Vale of Arryn"
+    },
+    {
+      "House_name": "Ruskyn",
+      "Region": "Unknown"
+    },
+    {
+      "House_name": "Ruthermont",
+      "Region": "Vale of Arryn"
+    },
+    {
+      "House_name": "Ruttiger",
+      "Region": "Westerlands"
+    },
+    {
+      "House_name": "Ryder of the Rills",
+      "Region": "North"
+    },
+    {
+      "House_name": "Ryger of Willow Wood",
+      "Region": "Riverlands"
+    },
+    {
+      "House_name": "Rykker of Duskendale",
+      "Region": "Crownlands"
+    },
+    {
+      "House_name": "Ryswell of the Rills",
+      "Region": "North"
+    },
+    {
+      "House_name": "Saltcliffe of Saltcliffe",
+      "Region": "Iron Islands"
+    },
+    {
+      "House_name": "Santagar of Spottswood",
+      "Region": "Dorne"
+    },
+    {
+      "House_name": "Sarsfield of Sarsfield",
+      "Region": "Westerlands"
+    },
+    {
+      "House_name": "Sawyer",
+      "Region": "Unknown"
+    },
+    {
+      "House_name": "Seaworth of Cape Wrath",
+      "Region": "Stormlands"
+    },
+    {
+      "House_name": "Selmy of Harvest Hall",
+      "Region": "Stormlands (Marcher Lords)"
+    },
+    {
+      "House_name": "Serrett of Silverhill",
+      "Region": "Westerlands"
+    },
+    {
+      "House_name": "Serry of Southshield",
+      "Region": "Reach (Shield Islands)"
+    },
+    {
+      "House_name": "Sharp",
+      "Region": "Iron Islands"
+    },
+    {
+      "House_name": "Shawney",
+      "Region": "Riverlands"
+    },
+    {
+      "House_name": "Shell",
+      "Region": "Vale of Arryn"
+    },
+    {
+      "House_name": "Shell",
+      "Region": "Dorne"
+    },
+    {
+      "House_name": "Shepherd",
+      "Region": "Iron Islands"
+    },
+    {
+      "House_name": "Shermer of Smithyton",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Shett of Gull Tower",
+      "Region": "Vale of Arryn"
+    },
+    {
+      "House_name": "Shett of Gulltown",
+      "Region": "Vale of Arryn"
+    },
+    {
+      "House_name": "Slate of Blackpool",
+      "Region": "North"
+    },
+    {
+      "House_name": "Sloane",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Slynt of Harrenhal",
+      "Region": "Crownlands (origin); Riverlands (deposed)"
+    },
+    {
+      "House_name": "Smallwood of Acorn Hall",
+      "Region": "Riverlands"
+    },
+    {
+      "House_name": "Sparr of Great Wyk",
+      "Region": "Iron Islands"
+    },
+    {
+      "House_name": "Spicer of Castamere",
+      "Region": "Westerlands"
+    },
+    {
+      "House_name": "Stackhouse",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Stackspear",
+      "Region": "Westerlands"
+    },
+    {
+      "House_name": "Staedmon of Broad Arch",
+      "Region": "Stormlands"
+    },
+    {
+      "House_name": "Stane of Driftwood Hall",
+      "Region": "North (Skagosi Clans)"
+    },
+    {
+      "House_name": "Stark of Winterfell",
+      "Region": "North"
+    },
+    {
+      "House_name": "Staunton of Rook's Rest",
+      "Region": "Crownlands"
+    },
+    {
+      "House_name": "Stokeworth of Stokeworth",
+      "Region": "Crownlands"
+    },
+    {
+      "House_name": "Stonehouse of Old Wyk",
+      "Region": "Iron Islands"
+    },
+    {
+      "House_name": "Stonetree of Harlaw",
+      "Region": "Iron Islands"
+    },
+    {
+      "House_name": "Stout of Goldgrass",
+      "Region": "North"
+    },
+    {
+      "House_name": "Strickland",
+      "Region": "Unknown"
+    },
+    {
+      "House_name": "Strong of Harrenhal",
+      "Region": "Riverlands"
+    },
+    {
+      "House_name": "Suggs",
+      "Region": "Unknown"
+    },
+    {
+      "House_name": "Sunderland of the Three Sisters",
+      "Region": "Vale of Arryn (Sistermen)"
+    },
+    {
+      "House_name": "Sunderly of Saltcliffe",
+      "Region": "Iron Islands"
+    },
+    {
+      "House_name": "Sunglass of Sweetport Sound",
+      "Region": "Crownlands (Dragonstone)"
+    },
+    {
+      "House_name": "Swann of Stonehelm",
+      "Region": "Stormlands (Marcher Lords)"
+    },
+    {
+      "House_name": "Swyft of Cornfield",
+      "Region": "Westerlands"
+    },
+    {
+      "House_name": "Swygert",
+      "Region": "Stormlands"
+    },
+    {
+      "House_name": "Tallhart of Torrhen's Square",
+      "Region": "North"
+    },
+    {
+      "House_name": "Tarbeck of Tarbeck Hall",
+      "Region": "Westerlands"
+    },
+    {
+      "House_name": "Targaryen of King's Landing",
+      "Region": "Crownlands"
+    },
+    {
+      "House_name": "Tarly of Horn Hill",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Tarth of Evenfall Hall",
+      "Region": "Stormlands"
+    },
+    {
+      "House_name": "Tawney of Orkmont",
+      "Region": "Iron Islands"
+    },
+    {
+      "House_name": "Teague",
+      "Region": "Riverlands"
+    },
+    {
+      "House_name": "Templeton of Ninestars",
+      "Region": "Vale of Arryn"
+    },
+    {
+      "House_name": "Terrick",
+      "Region": "Riverlands"
+    },
+    {
+      "House_name": "Thenn",
+      "Region": "North"
+    },
+    {
+      "House_name": "Thorne",
+      "Region": "Crownlands"
+    },
+    {
+      "House_name": "Toland of Ghost Hill",
+      "Region": "Dorne"
+    },
+    {
+      "House_name": "Tollett of the Grey Glen",
+      "Region": "Vale of Arryn"
+    },
+    {
+      "House_name": "Torrent of Littlesister",
+      "Region": "Vale of Arryn (Sistermen)"
+    },
+    {
+      "House_name": "Towers",
+      "Region": "North"
+    },
+    {
+      "House_name": "Towers of Harrenhal",
+      "Region": "Riverlands"
+    },
+    {
+      "House_name": "Toyne",
+      "Region": "Stormlands"
+    },
+    {
+      "House_name": "Trant of Gallowsgrey",
+      "Region": "Stormlands"
+    },
+    {
+      "House_name": "Tudbury",
+      "Region": "Stormlands"
+    },
+    {
+      "House_name": "Tully of Riverrun",
+      "Region": "Riverlands"
+    },
+    {
+      "House_name": "Turnberry",
+      "Region": "Westerlands"
+    },
+    {
+      "House_name": "Tyrell of Brightwater Keep",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Tyrell of Highgarden",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Uffering",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Uller of the Hellholt",
+      "Region": "Dorne"
+    },
+    {
+      "House_name": "Umber of the Last Hearth",
+      "Region": "North"
+    },
+    {
+      "House_name": "Upcliff of the Witch Isle",
+      "Region": "Vale of Arryn"
+    },
+    {
+      "House_name": "Vaith of the Red Dunes",
+      "Region": "Dorne"
+    },
+    {
+      "House_name": "Vance of Atranta",
+      "Region": "Riverlands"
+    },
+    {
+      "House_name": "Vance of Wayfarer's Rest",
+      "Region": "Riverlands"
+    },
+    {
+      "House_name": "Varner",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Velaryon of Driftmark",
+      "Region": "Crownlands (Dragonstone)"
+    },
+    {
+      "House_name": "Vikary",
+      "Region": "Westerlands"
+    },
+    {
+      "House_name": "Volmark of Volmark",
+      "Region": "Iron Islands (Shield Islands)"
+    },
+    {
+      "House_name": "Vypren",
+      "Region": "Riverlands"
+    },
+    {
+      "House_name": "Vyrwel of Darkdell",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Wade",
+      "Region": "Dorne"
+    },
+    {
+      "House_name": "Wagstaff",
+      "Region": "Stormlands"
+    },
+    {
+      "House_name": "Warrick",
+      "Region": "Unknown"
+    },
+    {
+      "House_name": "Waterman",
+      "Region": "North"
+    },
+    {
+      "House_name": "Waxley of Wickenden",
+      "Region": "Vale of Arryn"
+    },
+    {
+      "House_name": "Wayn",
+      "Region": "Riverlands"
+    },
+    {
+      "House_name": "Waynwood of Ironoaks",
+      "Region": "Vale of Arryn"
+    },
+    {
+      "House_name": "Weatherwax",
+      "Region": "Unknown"
+    },
+    {
+      "House_name": "Weaver",
+      "Region": "Iron Islands"
+    },
+    {
+      "House_name": "Webber of Coldmoat",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Wells",
+      "Region": "Dorne"
+    },
+    {
+      "House_name": "Wells",
+      "Region": "North"
+    },
+    {
+      "House_name": "Wendwater",
+      "Region": "Crownlands"
+    },
+    {
+      "House_name": "Wensington",
+      "Region": "Stormlands"
+    },
+    {
+      "House_name": "Westbrook",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Westerling of the Crag",
+      "Region": "Westerlands"
+    },
+    {
+      "House_name": "Whitfield",
+      "Region": "Unknown"
+    },
+    {
+      "House_name": "Whent of Harrenhal",
+      "Region": "Riverlands"
+    },
+    {
+      "House_name": "Whitehead of the Weeping Town",
+      "Region": "Stormlands"
+    },
+    {
+      "House_name": "Whitehill of Highpoint",
+      "Region": "North"
+    },
+    {
+      "House_name": "Willum",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Wode",
+      "Region": "Riverlands"
+    },
+    {
+      "House_name": "Woodfoot of Bear Island",
+      "Region": "North"
+    },
+    {
+      "House_name": "Woodhull",
+      "Region": "Vale of Arryn"
+    },
+    {
+      "House_name": "Woods",
+      "Region": "North (Wolfswood Clans)"
+    },
+    {
+      "House_name": "Woodwright",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Woolfield",
+      "Region": "North"
+    },
+    {
+      "House_name": "Wull",
+      "Region": "North (Mountain Clans)"
+    },
+    {
+      "House_name": "Wydman",
+      "Region": "Vale of Arryn"
+    },
+    {
+      "House_name": "Wyl of the Boneway",
+      "Region": "Dorne"
+    },
+    {
+      "House_name": "Wylde of Rain House",
+      "Region": "Stormlands"
+    },
+    {
+      "House_name": "Wynch of Iron Holt",
+      "Region": "Iron Islands"
+    },
+    {
+      "House_name": "Wythers",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Yarwyck",
+      "Region": "Westerlands"
+    },
+    {
+      "House_name": "Yelshire",
+      "Region": "Reach"
+    },
+    {
+      "House_name": "Yew",
+      "Region": "Westerlands"
+    },
+    {
+      "House_name": "Yronwood of Yronwood",
+      "Region": "Dorne"
+    },
+    {
+      "House_name": "Branfield",
+      "Region": "Unknown"
+    },
+    {
+      "House_name": "Forrester of Ironrath",
+      "Region": "North (Wolfswood Clans)"
+    },
+    {
+      "House_name": "Glenmore of Rillwater Crossing",
+      "Region": "North"
+    },
+    {
+      "House_name": "Tuttle",
+      "Region": "North"
+    },
+    {
+      "House_name": "Whitehill",
+      "Region": "North"
+    },
+    {
+      "House_name": "Harlton of Castlewood",
+      "Region": "Riverlands"
+    },
+    {
+      "House_name": "Sarwyck of Riverspring",
+      "Region": "Westerlands"
+    },
+    {
+      "House_name": "Westford",
+      "Region": "Westerlands"
+    }
+  ]
+}
